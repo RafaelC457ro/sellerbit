@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
-class SellerbitApplication
+class SallerBitApplication
 
 fun main(args: Array<String>) {
-    SpringApplication.run(SellerbitApplication::class.java, *args)
+    SpringApplication.run(SallerBitApplication::class.java, *args)
 }
